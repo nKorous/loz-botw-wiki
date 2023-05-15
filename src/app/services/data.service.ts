@@ -39,4 +39,32 @@ export class DataService {
 
     return of(monster as Monsters)
   }
+
+  getMonsterDropsList() {
+    const monsterDropList = BOTW_DATA.monsters.reduce((acc: string[], cur: Monsters) => {
+      cur.drops.forEach(d => {
+        if(!acc.includes(d)) {
+          acc = [...acc, d]
+        }
+      })
+
+      return acc
+    }, [])
+
+    return of(monsterDropList)
+  }
+
+  getMonsterLocationList() {
+    const monsterLocationList = BOTW_DATA.monsters.reduce((acc: string[], cur: Monsters) => {
+      cur.common_locations.forEach(l => {
+        if(!acc.includes(l)) {
+          acc = [...acc, l]
+        }
+      })
+
+      return acc
+    }, [])
+
+    return of(monsterLocationList)
+  }
 }

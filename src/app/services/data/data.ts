@@ -528,7 +528,7 @@ export const BOTW_DATA = {
                     "Satori Mountain"
                 ],
                 "description": "They may look like mere rabbits at a fleeting glance, but these strange and aptly named creatures glow with a mysterious blue light. While the details of their origins are entirely unknown, there is one thing we do know: these peculiar little things have a penchant for collecting rupees.",
-                "drops": null,
+                "drops": [],
                 "id": 29,
                 "image": "https://botw-compendium.herokuapp.com/api/v2/entry/blupee/image",
                 "name": "blupee"
@@ -553,7 +553,7 @@ export const BOTW_DATA = {
                     "Satori Mountain"
                 ],
                 "description": "This noble creature watches over all animals that make their homes in the forest. Legends say this holy creature is a reincarnation of a sage that died on the lands it now protects. It has an acute awareness of its surroundings, so it seldom appears before people. It's sometimes known by its other name, Satori",
-                "drops": null,
+                "drops": [],
                 "id": 4,
                 "image": "https://botw-compendium.herokuapp.com/api/v2/entry/lord_of_the_mountain/image",
                 "name": "lord of the mountain"
@@ -853,7 +853,7 @@ export const BOTW_DATA = {
             },
             {
                 "category": "creatures",
-                "common_locations": null,
+                "common_locations": [],
                 "description": "This giant horse is the last of its kind. Its physical capabilities completely overshadow those of regular horses, but its temperament is extremely wild. Only a truly skilled rider can train, or even catch, this beast of a mount. This is a horse that chooses its rider.",
                 "drops": [],
                 "id": 2,
@@ -1084,9 +1084,9 @@ export const BOTW_DATA = {
             },
             {
                 "category": "creatures",
-                "common_locations": null,
+                "common_locations": [],
                 "description": "The Hyrulean royal family that perished 100 years ago would sometimes ride atop white horses as a display of their divine right. This white horse may be a descendant of one once ridden by royalty.",
-                "drops": null,
+                "drops": [],
                 "id": 3,
                 "image": "https://botw-compendium.herokuapp.com/api/v2/entry/white_horse/image",
                 "name": "white horse"
@@ -1396,7 +1396,7 @@ export const BOTW_DATA = {
         {
             "attack": 100,
             "category": "equipment",
-            "common_locations": null,
+            "common_locations": [],
             "defense": 0,
             "description": "Princess Zelda gave you this bow and arrow for the battle with Dark Beast Ganon. When wielded by the hero, it fires arrows of pure light strong enough to oppose the Calamity.",
             "id": 323,
@@ -1432,7 +1432,7 @@ export const BOTW_DATA = {
         {
             "attack": 40,
             "category": "equipment",
-            "common_locations": null,
+            "common_locations": [],
             "defense": 0,
             "description": "This lethal weapon is forged by the Yiga. Its unique shape facilitates the sound dispatching of any target and strikes fear into the hearts of all who see it.",
             "id": 243,
@@ -1466,13 +1466,13 @@ export const BOTW_DATA = {
             "name": "vicious sickle"
         },
         {
-            "attack": null,
+            "attack": [],
             "category": "equipment",
             "common_locations": [
                 "Lanayru Great Spring",
                 "Hyrule Field"
             ],
-            "defense": null,
+            "defense": [],
             "description": "An arrow imbued with the power of electricity. It breaks apart on impact, channeling electricity into nearby objects. It's incredibly effective against metal or anything wet.",
             "id": 351,
             "image": "https://botw-compendium.herokuapp.com/api/v2/entry/shock_arrow/image",
@@ -1492,13 +1492,13 @@ export const BOTW_DATA = {
             "name": "dragonbone boko spear"
         },
         {
-            "attack": null,
+            "attack": [],
             "category": "equipment",
             "common_locations": [
                 "Hyrule Field",
                 "Eldin Canyon"
             ],
-            "defense": null,
+            "defense": [],
             "description": "An arrow imbued with the power of fire. It breaks apart on impact, igniting objects in the immediate area. It's incredibly effective against cold things.",
             "id": 349,
             "image": "https://botw-compendium.herokuapp.com/api/v2/entry/fire_arrow/image",
@@ -1520,7 +1520,7 @@ export const BOTW_DATA = {
         {
             "attack": 72,
             "category": "equipment",
-            "common_locations": null,
+            "common_locations": [],
             "defense": 0,
             "description": "The Sheikah used the very essence of ancient technology to forge this greatsword. It was designed to oppose the Calamity, but its low durability made it impractical in battle.",
             "id": 267,
@@ -1620,7 +1620,7 @@ export const BOTW_DATA = {
         {
             "attack": 55,
             "category": "equipment",
-            "common_locations": null,
+            "common_locations": [],
             "defense": 0,
             "description": "This two-handed sword was forged using ancient Sheikah technology. Its unique rotating blades give it impressive cutting power that will slice enemies to shreds.",
             "id": 265,
@@ -1630,7 +1630,7 @@ export const BOTW_DATA = {
         {
             "attack": 1,
             "category": "equipment",
-            "common_locations": null,
+            "common_locations": [],
             "defense": 0,
             "description": "This strange hammer is one of Kilton's specialties. Being struck by it doesn't hurt much, but the forth swing in a string of attacks will send the victim flying.",
             "id": 206,
@@ -1705,7 +1705,7 @@ export const BOTW_DATA = {
         {
             "attack": 50,
             "category": "equipment",
-            "common_locations": null,
+            "common_locations": [],
             "defense": 0,
             "description": "This prototype Sheikah-made bow was designed to fight the Great Calamity. Made with ancient technology, it boast a high rate of fire and firepower, but has a low durability.",
             "id": 337,
@@ -1815,13 +1815,13 @@ export const BOTW_DATA = {
             "name": "moblin club"
         },
         {
-            "attack": null,
+            "attack": [],
             "category": "equipment",
             "common_locations": [
                 "Hyrule Field",
                 "Hebra Mountains"
             ],
-            "defense": null,
+            "defense": [],
             "description": "An arrow imbued with the power of ice. It breaks apart on impact, freezing objects in the immediate area. It's incredibly effective against hot things.",
             "id": 350,
             "image": "https://botw-compendium.herokuapp.com/api/v2/entry/ice_arrow/image",
@@ -2062,7 +2062,7 @@ export const BOTW_DATA = {
         {
             "attack": 1000000000,
             "category": "equipment",
-            "common_locations": null,
+            "common_locations": [],
             "defense": 0,
             "description": "A weapon that defeats foes with one hit and causes the user to die within one hit. It loses its sheen and power after two consecutive uses, but it will eventually regain both.",
             "id": 244,
@@ -2072,7 +2072,7 @@ export const BOTW_DATA = {
         {
             "attack": 30,
             "category": "equipment",
-            "common_locations": null,
+            "common_locations": [],
             "defense": 0,
             "description": "The legendary sword that seals the darkness. Its blade gleams with a sacred luster that can oppose the Calamity. Only a hero chosen by the sword itself can wield it.",
             "id": 201,
@@ -2108,7 +2108,7 @@ export const BOTW_DATA = {
         {
             "attack": 0,
             "category": "equipment",
-            "common_locations": null,
+            "common_locations": [],
             "defense": 70,
             "description": "This shield was forged using ancient Sheikah technology. It boasts extremely high stopping power, but its structural weakness made its low durability impractical for combat.",
             "id": 373,
@@ -2157,7 +2157,7 @@ export const BOTW_DATA = {
         {
             "attack": 30,
             "category": "equipment",
-            "common_locations": null,
+            "common_locations": [],
             "defense": 0,
             "description": "This spear is the result of countless hours of research into the ancient technology used by Guardians. The glowing spearhead has piercing potential.",
             "id": 302,
@@ -2243,7 +2243,7 @@ export const BOTW_DATA = {
         {
             "attack": 0,
             "category": "equipment",
-            "common_locations": null,
+            "common_locations": [],
             "defense": 70,
             "description": "This shield was made using ancient Sheikah technology. Its surface glows blue when raised in defense. Enhanced functionality allows it to deflect Guardian beams.",
             "id": 371,
@@ -2279,7 +2279,7 @@ export const BOTW_DATA = {
         {
             "attack": 40,
             "category": "equipment",
-            "common_locations": null,
+            "common_locations": [],
             "defense": 0,
             "description": "The blade of this ancient sword was made using an ancient power lost to this modern age. Its blade appears only when drawn, and its cutting power surpasses metal swords.",
             "id": 218,
@@ -2510,7 +2510,7 @@ export const BOTW_DATA = {
         {
             "attack": 44,
             "category": "equipment",
-            "common_locations": null,
+            "common_locations": [],
             "defense": 0,
             "description": "This bow is the result of Robbie's research. Ancient Sheikah technology affords it heightened functionality. Arrows fired from it travel in a perfectly straight line.",
             "id": 336,
@@ -2595,12 +2595,12 @@ export const BOTW_DATA = {
             "name": "forest dweller's shield"
         },
         {
-            "attack": null,
+            "attack": [],
             "category": "equipment",
             "common_locations": [
                 "Hyrule Field"
             ],
-            "defense": null,
+            "defense": [],
             "description": "An arrow created using ancient technology. To be struck with one is to be consigned to oblivion in an instant. It deals devastating damage\u2014even against Guardians.",
             "id": 353,
             "image": "https://botw-compendium.herokuapp.com/api/v2/entry/ancient_arrow/image",
@@ -2633,13 +2633,13 @@ export const BOTW_DATA = {
             "name": "dragonbone moblin spear"
         },
         {
-            "attack": null,
+            "attack": [],
             "category": "equipment",
             "common_locations": [
                 "Hyrule Field",
                 "Eldin Canyon"
             ],
-            "defense": null,
+            "defense": [],
             "description": "A common arrow. Its shaft was carved from the wood of a sturdy tree.",
             "id": 348,
             "image": "https://botw-compendium.herokuapp.com/api/v2/entry/arrow/image",
@@ -2726,7 +2726,7 @@ export const BOTW_DATA = {
         {
             "attack": 0,
             "category": "equipment",
-            "common_locations": null,
+            "common_locations": [],
             "defense": 90,
             "description": "A shield passes down through the Hylian royal family, along with the legend of the hero who wielded it. Its defensive capabilities and durability outshine all other shields.",
             "id": 354,
@@ -2944,7 +2944,7 @@ export const BOTW_DATA = {
         {
             "attack": 48,
             "category": "equipment",
-            "common_locations": null,
+            "common_locations": [],
             "defense": 0,
             "description": "A Sheikah-made replica of the sword that seals the darkness. It was made with ancient technology to oppose the Great Calamity, but its low durability made it inefficient.",
             "id": 220,
@@ -3212,13 +3212,13 @@ export const BOTW_DATA = {
             "name": "giant boomerang"
         },
         {
-            "attack": null,
+            "attack": [],
             "category": "equipment",
             "common_locations": [
                 "Hyrule Field",
                 "East Necluda"
             ],
-            "defense": null,
+            "defense": [],
             "description": "A powerful arrow designed to destroy monsters. The explosive powder packed into the tip ignites on impact, dealing massive damage to anything caught in the blast.",
             "id": 352,
             "image": "https://botw-compendium.herokuapp.com/api/v2/entry/bomb_arrow/image",
@@ -3407,7 +3407,7 @@ export const BOTW_DATA = {
         {
             "attack": 32,
             "category": "equipment",
-            "common_locations": null,
+            "common_locations": [],
             "defense": 0,
             "description": "This Sheikah-made spear was created using ancient technology to combat the Calamity. Its attack power is very high, but a critical design flaw left it with poor durability.",
             "id": 304,
@@ -3924,7 +3924,7 @@ export const BOTW_DATA = {
     "monsters": [
         {
             "category": "monsters",
-            "common_locations": null,
+            "common_locations": [],
             "description": "These Lizalfos have been influenced by Ganon's fiendish magic to become the strongest Lizalfos of all. They're called \"silver\" for their unique coloring and also to denote their rarity. Their purple pattern makes them even more distinct.",
             "drops": [
                 "lizalfos horn",
@@ -3943,7 +3943,7 @@ export const BOTW_DATA = {
         },
         {
             "category": "monsters",
-            "common_locations": null,
+            "common_locations": [],
             "description": "Silver Lynels are not to be trifled with. They have been influenced by Ganon's fiendish magic, so they are the strongest among the Lynel species, surpassing even the strength of those with white manes. The term \"silver\" denotes not only their color but also their rarity. The purple stripes help them to stand out even more.",
             "drops": [
                 "lynel horn",
@@ -4030,7 +4030,7 @@ export const BOTW_DATA = {
         },
         {
             "category": "monsters",
-            "common_locations": null,
+            "common_locations": [],
             "description": "Although originally designed by an ancient civilisation to combat Ganon, these scaled-down Guardians were placed inside shrines as part or the trials. This model is equipped with twin-blade functionality to further test the combat prowess of one undertaking the trials. It takes a nimble fighter to overcome this one.",
             "drops": [
                 "ancient screw",
@@ -4045,7 +4045,7 @@ export const BOTW_DATA = {
         },
         {
             "category": "monsters",
-            "common_locations": null,
+            "common_locations": [],
             "description": "The Malice has given these Lizalfos skulls a sorry form of life after death. Only the slyness of their former selves remains, making them faster than Bokoblin skulls. They thoughtlessly attack anyone who approaches.",
             "drops": [],
             "id": 158,
@@ -4070,7 +4070,7 @@ export const BOTW_DATA = {
         },
         {
             "category": "monsters",
-            "common_locations": null,
+            "common_locations": [],
             "description": "The Malice has given these Moblin skulls a pitiful life after death. The only fragment of their former selves they've held on to is the ferocity innate to all Moblins, so they will attack anyone that approaches.",
             "drops": [],
             "id": 157,
@@ -4090,7 +4090,7 @@ export const BOTW_DATA = {
         },
         {
             "category": "monsters",
-            "common_locations": null,
+            "common_locations": [],
             "description": "This massive monster swims beneath the desert's sand. It is a subspecies of Molduga that stored up a great deal of energy by sleeping underground for hundreds of years. Its power is superior to Molduga, as its skin is rich with iron and acts as a protective shield.",
             "drops": [
                 "treasures"
@@ -4186,7 +4186,7 @@ export const BOTW_DATA = {
         },
         {
             "category": "monsters",
-            "common_locations": null,
+            "common_locations": [],
             "description": "Although originally designed by an ancient civilization to combat Ganon, these scaled-down Guardians were placed inside shrines as part of the trials. In additional to the beam functionality, this particular model was designed to handle weaponry as a means of further testing the combat prowess of one undertaking the trials. It takes some serious skill to go toe-to-toe with one of these.",
             "drops": [
                 "ancient screw",
@@ -4238,7 +4238,7 @@ export const BOTW_DATA = {
                 "Tabantha Frontier"
             ],
             "description": "A spirit of fire has taken the form of this giant dragon. Making its home in the Eldin region, it's said to have served the Spring of Power since ancient times. An old saying goes, \"The dragon ascends to the heavens as the sun begins to set,\" but nobody has witnessed this in the current age. The flames that coat its body make it dangerous to get near, but Dinraal bears no ill will toward people.",
-            "drops": null,
+            "drops": [],
             "id": 153,
             "image": "https://botw-compendium.herokuapp.com/api/v2/entry/dinraal/image",
             "name": "dinraal"
@@ -4299,7 +4299,7 @@ export const BOTW_DATA = {
                 "Lake Floria"
             ],
             "description": "A spirit of lightning has taken the form of this giant dragon. Making its home in the Faron region, it's said to have served the Spring of Courage since ancient times. An old saying goes, \"The dragon ascends to the heavens as the sun begins to set,\" but nobody has seen this in the current age. The electricity that coats its body makes it dangerous to get near, but Farosh bears no ill will toward people.",
-            "drops": null,
+            "drops": [],
             "id": 155,
             "image": "https://botw-compendium.herokuapp.com/api/v2/entry/farosh/image",
             "name": "farosh"
@@ -4338,7 +4338,7 @@ export const BOTW_DATA = {
         },
         {
             "category": "monsters",
-            "common_locations": null,
+            "common_locations": [],
             "description": "These are the elite soldiers of the Yiga Clan. They favor the windcleaver blade and are extremely agile despite their bulky build. At this Yiga Clan rank, they have mastered a technique that allows them to manipulate the very earth. By striking the ground, they can create stone pillars and blasts of air.",
             "drops": [
                 "amber",
@@ -4380,7 +4380,7 @@ export const BOTW_DATA = {
         },
         {
             "category": "monsters",
-            "common_locations": null,
+            "common_locations": [],
             "description": "The Malice has given these Bokoblin skulls a sort of life. Devoid of any intelligence the Bokoblin it once belonged to may have had, these pitiful things now exist only to attack anything that gets too close.",
             "drops": [],
             "id": 156,
@@ -4389,7 +4389,7 @@ export const BOTW_DATA = {
         },
         {
             "category": "monsters",
-            "common_locations": null,
+            "common_locations": [],
             "description": "This monster is an Igneo Talus subspecies that is camouflaged as molten rock. It lives in lava for many years before emerging at an enormous size. It is wildly powerful and emits a tremendous amount of heat, causing a constant updraft in its vicinity. This monster is so fearsome it has earned the title of Titan.",
             "drops": [],
             "id": 146,
@@ -4500,7 +4500,7 @@ export const BOTW_DATA = {
         },
         {
             "category": "monsters",
-            "common_locations": null,
+            "common_locations": [],
             "description": "The arbiter of worthiness for the hero who wishes to control a Divine Beast, following a revelation from the Goddess Hylia. As the last part of the final trial, the monk offers a challenge of ancient techniques.",
             "drops": [],
             "id": 137,
@@ -4620,7 +4620,7 @@ export const BOTW_DATA = {
         },
         {
             "category": "monsters",
-            "common_locations": null,
+            "common_locations": [],
             "description": "You would be foolish to call these Silver Bokoblins a mere nuisance. They have been influenced by Ganon's fiendish magic, so they are stronger than even the Black Bokoblins. They're called \"silver\" not only because of their coloring but also to denote their rarity. The purple markings help them to stand out even more.",
             "drops": [
                 "bokoblin horn",
@@ -4661,7 +4661,7 @@ export const BOTW_DATA = {
         },
         {
             "category": "monsters",
-            "common_locations": null,
+            "common_locations": [],
             "description": "The strongest of all Moblins, Ganon's fiendish magic has allowed them to surpass even the Black Moblins in strength and resilience. They're called \"silver\" for both their body color as well as their rarity. The purple patterns on their bodies also help them to stand out.",
             "drops": [
                 "moblin horn",
@@ -4680,7 +4680,7 @@ export const BOTW_DATA = {
         },
         {
             "category": "monsters",
-            "common_locations": null,
+            "common_locations": [],
             "description": "The lowest-ranked members of the Yiga Clan. They've been dispatched all across Hyrule with a single task: seek out Link and end his life. They're a crafty bunch, sometimes disguising themselves as simple travelers or villagers to get the jump on you. Be wary of suspicious people you encounter. They're very agile and carry a bow and one-handed sword.",
             "drops": [
                 "green rupee",
@@ -4784,7 +4784,7 @@ export const BOTW_DATA = {
         },
         {
             "category": "monsters",
-            "common_locations": null,
+            "common_locations": [],
             "description": "Guardians were originally designed by an ancient civilization to combat Ganon, but these smaller models were placed inside shrines as part of the trials found within. The multiple legs and beam functionality were scaled down but kept mostly intact.",
             "drops": [
                 "ancient screw",
@@ -5034,7 +5034,7 @@ export const BOTW_DATA = {
         },
         {
             "category": "monsters",
-            "common_locations": null,
+            "common_locations": [],
             "description": "An ancient civilization originally designed Guardians to combat Ganon but then scaled them down to place in shrines as part of the trials. This model is very resilient and has been outfitted with triple-blade functionality, allowing it to wield three weapons. This will put any would-be hero to the test for sure. A great deal of strength and confidence alike are required to contend with one of these.",
             "drops": [
                 "ancient screw",
@@ -5093,7 +5093,7 @@ export const BOTW_DATA = {
                 "Mount Lanayru"
             ],
             "description": "A spirit of ice has taken the form of this giant dragon. Making its home in the Lanayru region, it's said to have served the Spring of Wisdom since ancient times. An old saying goes, \"The dragon ascends to the heavens as the sun begins to set,\" but nobody has seen this in the current age. The ice that coats its body makes it dangerous to get near, but Naydra bears no ill will toward people.",
-            "drops": null,
+            "drops": [],
             "id": 154,
             "image": "https://botw-compendium.herokuapp.com/api/v2/entry/naydra/image",
             "name": "naydra"

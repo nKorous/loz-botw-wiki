@@ -34,8 +34,8 @@ export class DataService {
     return of(BOTW_DATA.monsters as Monsters[])
   }
 
-  getSingleMonster(monsterName: string) {
-    const monster = BOTW_DATA.monsters.find(fi => fi.name === monsterName)
+  getSingleMonster(id: number) {
+    const monster = BOTW_DATA.monsters.find(fi => fi.id === id)
 
     return of(monster as Monsters)
   }
